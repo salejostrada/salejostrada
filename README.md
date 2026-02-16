@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 Hi there, My name is Santiago Estrada, i am from Icesi University, my degree is Software Engineering.
 
 ### Tools : 
- <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/4106567f-5442-4aeb-bf98-0fa57acd7f50" />
+ <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4106567f-5442-4aeb-bf98-0fa57acd7f50" />
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/83c09538-ec4d-45ab-8a5a-8da64c73d237" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/83c09538-ec4d-45ab-8a5a-8da64c73d237" />
 
- <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b6167888-7408-4d9f-bca7-4e9f6672bb2d" />
+ <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b6167888-7408-4d9f-bca7-4e9f6672bb2d" />
 
- <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/8209d558-974e-4117-a1bb-b98d7c3df8a4" />
+ <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8209d558-974e-4117-a1bb-b98d7c3df8a4" />
 
 
 
