@@ -29,6 +29,8 @@ Hi there 👋, My name is Santiago Estrada, i am from Icesi University, my degre
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8209d558-974e-4117-a1bb-b98d7c3df8a4" />
 </p>
 
+### About my work: 
+
 - 🌱 Currently learning: **Spring Boot, Software Architecture**
 - 🧩 Interested in: **backend, APIs**
 - 📫 Reach me: **santiago04182005@gmail.com**
