@@ -15,21 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there, My name is Santiago Estrada, i am from Icesi University, my degree is Software Engineering.
-
+Hi there 👋, My name is Santiago Estrada, i am from Icesi University, my degree is Software Engineering 💻.
 ### Tools : 
- <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4106567f-5442-4aeb-bf98-0fa57acd7f50" />
+<p>
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4106567f-5442-4aeb-bf98-0fa57acd7f50" />
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/83c09538-ec4d-45ab-8a5a-8da64c73d237" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/83c09538-ec4d-45ab-8a5a-8da64c73d237" />
 
- <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b6167888-7408-4d9f-bca7-4e9f6672bb2d" />
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b6167888-7408-4d9f-bca7-4e9f6672bb2d" />
 
- <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8209d558-974e-4117-a1bb-b98d7c3df8a4" />
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/beec6775-85dd-4a85-98c7-9ff5e3d351da" />
 
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8209d558-974e-4117-a1bb-b98d7c3df8a4" />
+</p>
 
+- 🌱 Currently learning: **Spring Boot, Software Architecture**
+- 🧩 Interested in: **backend, APIs**
+- 📫 Reach me: **santiago04182005@gmail.com**
 
-Currently practicing about:
- - Springboot
- - Software architecture
 
 
