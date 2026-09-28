@@ -29,14 +29,6 @@ I'm interested in **Artificial Intelligence, Machine Learning, Data Analytics, a
 
 #### 🛠️ Technologies I've worked with
 
-**Programming & Data**
-- Python
-- Java
-- SQL
-- R
-- JavaScript
-- TypeScript
-
 **AI & Machine Learning**
 - Scikit-learn
 - TensorFlow
@@ -58,30 +50,6 @@ I'm interested in **Artificial Intelligence, Machine Learning, Data Analytics, a
 - Vite
 - Next.js
 - NestJS
-- HTML & CSS
-- REST APIs
-
-**Databases**
-- SQL
-- MongoDB
-
-**Infrastructure & DevOps**
-- Linux
-- Bash
-- Docker
-- Git & GitHub
-- GitHub Actions
-- Jenkins
-- Nexus
-- AWS
-- Azure
-
-**AI-Assisted Development**
-- ChatGPT
-- Claude
-- Gemini
-- Codex
-- Spec-Driven Development (SDD)
 
 ### A little more about me
 
