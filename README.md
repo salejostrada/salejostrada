@@ -27,22 +27,6 @@ I'm interested in **Artificial Intelligence, Machine Learning, Data Analytics, a
 - GitHub Actions
 - Nexus Repository
 
-#### 🛠️ Technologies I've worked with
-
-**AI & Machine Learning**
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- Hugging Face Transformers
-- Pandas
-- NumPy
-- Jupyter / Anaconda
-- Regression & Classification
-- KNN
-- Neural Networks
-- RNN & LSTM
-- Transformers
-
 ### 🚀 Featured Projects
 
 #### 🧠 Sentiment Analysis with Deep Learning & Transformers
