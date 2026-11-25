@@ -23,33 +23,6 @@ I'm interested in **Artificial Intelligence, Machine Learning, Data Analytics, a
 - Cloud & Infrastructure
 - AWS & Azure
 - Jenkins & CI/CD pipelines
-- Docker & containerized environments
-- GitHub Actions
-- Nexus Repository
 
-### 🚀 Featured Projects
 
-#### 🧠 Sentiment Analysis with Deep Learning & Transformers
-NLP project comparing Dense Neural Networks, RNN, LSTM, and DistilBERT for sentiment classification.
 
-**Tech:** Python · TensorFlow · PyTorch · Hugging Face · Scikit-learn
-
-🔗 [View project](https://github.com/CyED3/ti2-2026-1-hollymontaindevss)
-
----
-
-#### 🔐 Chomsky — Static Code Security Analyzer
-Python-based static analysis tool designed to detect security risks in JavaScript repositories using formal language concepts.
-
-**Tech:** Python · Regex · DFA · FST · CFG · Pytest
-
-🔗 [View project](https://github.com/CyED3/ti1-2026-1-hollymontaindevs)
-
-### A little more about me
-
-- 🎓 **Systems Engineering** student at Universidad Icesi
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, Data Analytics, and Software Engineering**
-- ☁️ Currently expanding my knowledge in **Cloud Infrastructure & DevOps**
-- 🌎 Based in Colombia
-- 🇬🇧 English B2
-- 📫 Reach me: **santiago04182005@gmail.com**
